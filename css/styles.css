@@ -1,9 +1,21 @@
 html {
     color:burlywood;
 }
+
+body {
+    color:brown;
+    background-color:beige
+}
+
 h1 {
     color:darkgoldenrod;
+/*    background-color: darkblue*/
 }
 p {
     color:darkseagreen;
+    background-color: darkturquoise
+}
+
+a {
+    color: red;
 }
