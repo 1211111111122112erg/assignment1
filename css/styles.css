@@ -13,7 +13,7 @@ h1 {
 }
 
 .cis-260{
-    color:crimson;
+/*    color:crimson;*/
     background-color: darkblue;
 }
 
@@ -27,6 +27,7 @@ h1 {
 
 p {
     color:darkseagreen;
+    font-size: 8em;
     background-color: darkturquoise
 }
 
