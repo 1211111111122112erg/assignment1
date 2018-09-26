@@ -34,3 +34,11 @@ p {
 a {
     color: red;
 }
+#special-paragraph {
+    font-family: fantasy;
+    color:aquamarine
+}
+
+body a {
+    font-family: monospace;
+}
